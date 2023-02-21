@@ -1,0 +1,6 @@
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/stormsco/wevamgroupltd.storms.co.ke
+    - /bin/cp -R * $DEgitPLOYPATH
